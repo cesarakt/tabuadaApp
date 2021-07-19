@@ -1,4 +1,3 @@
-
 export const gerarNumero = () => {
     const isInterval = "closed";
     const setIsInterval = isInterval === "closed" ? 1 : 0;

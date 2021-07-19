@@ -2,10 +2,10 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-import Inicio from "./components/Inicio";
-import Tabuada from "./components/Tabuada";
-import RespostaCerta from "./components/RespostaCerta";
-import RespostaErrada from "./components/RespostaErrada";
+import Inicio from "./Screens/Inicio";
+import Tabuada from "./Screens/Tabuada";
+import RespostaCerta from "./Screens/RespostaCerta";
+import RespostaErrada from "./Screens/RespostaErrada";
 
 
 const Stack = createStackNavigator();

@@ -4,7 +4,7 @@ import { Button, View, Text, ImageBackground } from 'react-native';
 import errou from '../../assets/errou.jpg';
 import style from './style';
 
-const RespostaErrada = ({navigation}) => {
+const RespostaErrada = ({ navigation }) => {
     const abrirTelaTabuada = () => {
         navigation.navigate('Tabuada');
     }
