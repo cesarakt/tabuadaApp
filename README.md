@@ -4,9 +4,7 @@
 
 ### Sendo realizado com a biblioteca React Navigation e suas aplicações.
 
-<p align="center">
-    <img src="https://www.devmedia.com.br/arquivos/cursos/rn_navegacao/animacao-projeto-final.gif" alt="Image" width="300" height="600" />
-</p>
+![alt text](assets/animacao-projeto-final.gif)
 
 ## Ferrramentas Utilizadas
 
