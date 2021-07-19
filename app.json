@@ -1,14 +1,14 @@
 {
   "expo": {
     "name": "tabuadaApp",
+    "icon": "./assets/icone.png",
     "slug": "tabuadaApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#03989e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,11 +17,15 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.cesarmazzaro.tabuadaApp",
+      "buildNumber": "1.0.0",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.cesarmazzaro.tabuadaApp",
+      "versionCode" : 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icone.png",
         "backgroundColor": "#FFFFFF"
       }
     },
